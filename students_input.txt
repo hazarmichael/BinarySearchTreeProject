@@ -1,0 +1,4 @@
+12,hazar,ramallah,10,2-2-2019
+13,dana,nablus,11,4-6-2018
+14,abeer,ramallah,3,16-4-2020
+7,zaid,tulkarem,10,30-12-2023
